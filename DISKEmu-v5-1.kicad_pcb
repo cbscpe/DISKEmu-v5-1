@@ -11527,6 +11527,19 @@
 		(path "/6c7b8b48-c546-4f50-838e-efda72ddefcb/6edeab70-e2b1-41a8-af90-86732cbd4730")
 		(sheetname "/QBUS/")
 		(sheetfile "QBUS.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "BV2" "BU2" "BT2" "BS2" "BR2" "BP2" "BN2" "BM2" "BL2" "BK2" "BJ2"
+					"BH2" "BF2" "BE2" "BD2" "BC2" "BB2" "BA2" "AV2" "AU2" "AT2" "AS2" "AR2"
+					"AP2" "AN2" "AM2" "AL2" "AK2" "AJ2" "AH2" "AF2" "AE2" "AD2" "AC2" "AB2"
+					"AA2" "BV1" "BU1" "BT1" "BS1" "BR1" "BP1" "BN1" "BM1" "BL1" "BK1" "BJ1"
+					"BH1" "BF1" "BE1" "BD1" "BC1" "BB1" "BA1" "AV1" "AU1" "AT1" "AS1" "AR1"
+					"AP1" "AN1" "AM1" "AL1" "AK1" "AJ1" "AH1" "AF1" "AE1" "AD1" "AC1" "AB1"
+					"AA1"
+				)
+			)
+		)
 		(attr smd exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18045,7 +18058,7 @@
 				)
 			)
 		)
-		(property "Value" "ATF1508-10QC100"
+		(property "Value" "ATF1508-10AC100"
 			(at 0 10.35 90)
 			(layer "F.SilkS")
 			(uuid "282adddf-ce5c-4be2-9f84-f5a4ce0e40a9")
@@ -30077,7 +30090,7 @@
 			)
 		)
 		(property ki_fp_filters "DIP?16*")
-		(path "/6c7b8b48-c546-4f50-838e-efda72ddefcb/5d2be14a-b59f-4178-b9c4-0669928818a9")
+		(path "/6c7b8b48-c546-4f50-838e-efda72ddefcb/c5d83493-57d6-4650-ba50-29c506751292")
 		(sheetname "/QBUS/")
 		(sheetfile "QBUS.kicad_sch")
 		(units

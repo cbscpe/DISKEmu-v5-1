@@ -9476,7 +9476,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ATF1508-10QC100"
+		(property "Value" "ATF1508-10AC100"
 			(at 83.4233 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
